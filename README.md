@@ -1,9 +1,9 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **Full Stack Project And Machine Learning**
+- 🔭 I’m currently working on **Full Stack Developement**
 - 👯 I’m looking to collaborate on **Hackathon**
-- 🌱 I’m currently learning **Full Stack Development**
-- 💬 Ask me about **JavaScript and Machine Learning**
-- 📫 How to reach me **kshitijkatore18@gmial.com**
+- 🌱 I’m currently learning **Full Stack Developement**
+- 💬 Ask me about **JavaScript**
+- 📫 How to reach me **achalkhodake0607@gmail.com**
 - ⚡ Fun fact **Imagine a tech wizard who can weave magic on the front end, conjure databases on the back end, and master the entire tech stack like a superhero.**
 
 
