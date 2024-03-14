@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on **Full Stack Developement and MachineLearning**
 - 👯 I’m looking to collaborate on **Hackathon**
 - 🌱 I’m currently learning **Full Stack Developement**
-- 💬 Ask me about **JavaScript and MachineLearning**
+- 💬 Ask me about **JavaScript and MachineLearning and GSAP**
 - 📫 How to reach me **kshitikatore18@gmail.com**
 - ⚡ Fun fact **Imagine a tech wizard who can weave magic on the front end, conjure databases on the back end, and master the entire tech stack like a superhero.**
 
